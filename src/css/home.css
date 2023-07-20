@@ -1,0 +1,42 @@
+Table{
+    border-collapse: collapse;
+    width: 90%;
+    margin: auto;
+    /* justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-content: center; */
+}
+th{
+    height: 70px;
+    /* background-color: #04AA6D; */
+    text-align: left;
+    
+}
+td{
+    padding: 5px;
+    text-align: left;
+}
+
+Table td{
+    border-bottom: 1px solid #ddd;
+}
+Button{
+    padding: 5px 10px;
+}
+.btn{
+    display: flex;
+    /* justify-content: start; */
+    width: 90%;
+    margin: auto;
+
+}
+.Btn-create{
+    padding: 10px 25px;
+    display: flex;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 40px;
+
+}
